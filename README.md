@@ -136,7 +136,7 @@ Now, **goManageDocker 😏!!**
 6. Filter objects with `/`
    ![search](vhs/gifs/search.gif)
    
-7. Perfrom docker scout with `s`
+7. Perform docker scout with `s`
    ![scout](vhs/gifs/scout.gif)
    
 8. Run an image directly from the image tab by pressing `r`.
